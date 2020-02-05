@@ -1,0 +1,60 @@
+    Bank 02
+
+        B3 = Validate
+        B4 = Bump
+        B5 = Exit of a house
+        B6 = Save Game
+        B8 = Pokéflute
+        B9 = Ding Dong
+        BA = PalletTown
+        BD = Pokecenter
+        C0 = Gym
+        C3 = Viridian City, Pewter City, Saffron City
+        C7 = Cerulean City, Fuchsia City
+        CA = Celadon City
+        CD = Cinnabar City
+        D0 = Vermilion City
+        D4 = Lavender Town
+        D8 = SS Anne
+        DB = Meet Oak
+        DE = Meet Blue
+        E1 = Follow me
+        E5 = Safari Zone / Evolution
+        E8 = Pokémon Healding
+        EB = Road 1, 2
+        EF = Road 24, 25
+        F3 = Road 3, 4, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 21, 22
+        F7 = Road 11, 12, 13, 14, 15
+        FB = Indigo Plateau
+
+    Bank 08
+
+        EA = Gym Leader Battle
+        ED = Trainer Battle
+        F0 = Wild Battle
+        F3 = Final Battle
+        F6 = Defeated Trainer
+        F9 = Defeated Wild Pokemon
+        FC = Defeated Champion / Gym
+
+    Bank 1F
+
+        C3 = Title Screen
+        C7 = Credits 
+        CA = Hall of fame
+        CD = Oak's Lab
+        D0 = Jigglypuff Song
+        D2 = Bike Riding
+        D6 = Surfing
+        D9 = Came Corner
+        DC = Intro Game
+        DF = Power Plant, Unknown Dungeon, Rocket HQ
+        E3 = Viridian Forest, Seafoam Islands
+        E7 = Mt. Moon, Rock Tunnel, Victory Road
+        EB = Cinnabar City Mansion
+        EF = Pokemon Tower
+        F2 = Silph Co.
+        F5 = Eye contact Evil Trainer
+        F8 = Eye contact Female Trainer
+        FB = Eye contact Male Trainer
+        FF = Stop Sound

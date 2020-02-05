@@ -1,0 +1,60 @@
+//add-ons to load
+ADDON Emote_Alarm
+ADDON Emote_Confusion
+ADDON Emote_Hate
+ADDON Emote_Love
+
+ADDON Particle_Basic
+ADDON Particle_FX_Cans
+ADDON Particle_Grass
+ADDON Particle_Player
+ADDON Particle_Tools
+
+ADDON Print_Letters_Default
+
+ADDON Gamemode_BL_Plays_Pokemon
+
+//music 
+
+//environment
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blank/white.dml
+$EnvGuiServer::WaterFile NONE
+$EnvGuiServer::GroundFile Add-Ons/Ground_White/white.ground
+$EnvGuiServer::SunFlareTopTexture base/lighting/corona2.png
+$EnvGuiServer::SunFlareBottomTexture base/lighting/corona2.png
+$EnvGuiServer::DayOffset 
+$EnvGuiServer::DayLength 300
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::DayCycle Add-Ons/DayCycle_Default/default.daycycle
+$EnvGuiServer::SunAzimuth 250
+$EnvGuiServer::SunElevation 35
+$EnvGuiServer::DirectLightColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::AmbientLightColor 1.000000 1.000000 1.000000 1.000000
+$EnvGuiServer::ShadowColor 0.630841 0.630841 0.630841 1.000000
+$EnvGuiServer::SunFlareColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::SunFlareSize 0
+$EnvGuiServer::VisibleDistance 1000
+$EnvGuiServer::FogDistance 1000
+$EnvGuiServer::FogHeight 
+$EnvGuiServer::FogColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::WaterColor 255 255 255 128
+$EnvGuiServer::WaterHeight 5
+$EnvGuiServer::UnderWaterColor 0 0 128 128
+$EnvGuiServer::SkyColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::WaterScrollX 0
+$EnvGuiServer::WaterScrollY 0
+$EnvGuiServer::GroundColor 1.000000 1.000000 1.000000 0.000000
+$EnvGuiServer::GroundScrollX 0
+$EnvGuiServer::GroundScrollY 0
+$EnvGuiServer::VignetteMultiply 0
+$EnvGuiServer::VignetteColor 0.000000 0.000000 0.000000 0.000000
+
+
+
+//minigame rules
+$MiniGame::Enabled 0
+
+
+//config settings
+$Server::WelcomeMessage \c2Welcome to Blockland, %1. Use the chat to vote on inputs! \c0!!!! PLEASE READ \c2/help \c0!!!!
